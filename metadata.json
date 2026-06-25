@@ -1,0 +1,6 @@
+{
+  "name": "Voice Studio",
+  "description": "Transform text into natural speech with custom voice presets, speed, pitch, volume enhancement sliders, and live waveform visualization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
